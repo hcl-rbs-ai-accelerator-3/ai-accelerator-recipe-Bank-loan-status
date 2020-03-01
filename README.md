@@ -1,0 +1,2 @@
+# ai-accelerator-recipe-Bank-loan-status
+This use case helps in predicting the loan status of a customer. The dataset used in this use case is 'loan_status.csv'. Initially, the data is analysed, EDA is done and then collinear variables are removed after some feature engineering to improve the model's performance. After standardization of data, KNN, Logistic Regression, SVM, Naive Bayes and Random Forest algorithms are used to predict the target variable.
